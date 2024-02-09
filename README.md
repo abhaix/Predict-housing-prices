@@ -8,8 +8,6 @@ Predict Housing Prices is a project that utilizes machine learning, specifically
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
