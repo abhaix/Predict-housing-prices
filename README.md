@@ -8,8 +8,6 @@ Predict Housing Prices is a project that utilizes machine learning, specifically
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -23,6 +21,8 @@ cd Predict-Housing-Prices
 
 1. Install the required dependencies:
 pip install -r Requirements.txt
+
+## Usage
 
 1. Ensure you have Python installed on your machine.
 2. Run the pre_House_price.ipynb script:
